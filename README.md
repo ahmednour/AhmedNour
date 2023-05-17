@@ -22,7 +22,7 @@ I am a Frontend/UI developer with 11 years of in developing user interfaces, use
 Connect with me:
 [Ahmed Nour](https://www.linkedin.com/in/ahmed-hussein-nour/)
 
-Languages and Tools:[^1]:
+Languages and Tools:
 <picture>  
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"> 
 </picture>
