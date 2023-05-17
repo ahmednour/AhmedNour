@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello There 🙋‍♀️, I'm Ahmed Nour 💖
+I am a Frontend/UI developer with 11 years of in developing user interfaces, user experience design, and coding complex web applications. Skilled in HTML, CSS, JavaScript, jQuery, React, and other programming languages. Proven track record of delivering high-quality projects on time.💪
+
+
+Connect with me:
+[Ahmed Nour](https://www.linkedin.com/in/ahmed-hussein-nour/)
+
+Languages and Tools:
+![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) ![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![git](https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667) ![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  ![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
