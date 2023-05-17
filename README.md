@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-                                                                                 Hello There 🙋‍♀️, I'm Ahmed Nour 💖
+Hello There 🙋‍♀️, I'm Ahmed Nour 💖
 I am a Frontend/UI developer with 11 years of in developing user interfaces, user experience design, and coding complex web applications. Skilled in HTML, CSS, JavaScript, jQuery, React, and other programming languages. Proven track record of delivering high-quality projects on time.💪
 
 
@@ -23,6 +23,7 @@ Connect with me:
 [Ahmed Nour](https://www.linkedin.com/in/ahmed-hussein-nour/)
 
 Languages and Tools:
+
 <picture>  
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"> 
 </picture>
