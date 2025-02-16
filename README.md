@@ -39,6 +39,6 @@ Languages and Tools:
  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"> 
 </picture>
 </picture>
- <img alt="React" src="https://iconduck.com/icons/14068/flutter?shared" width="40" height="40"> 
+ <img alt="Flutter" src="https://iconduck.com/icons/14068/flutter?shared" width="40" height="40"> 
 </picture>
 
