@@ -1,44 +1,104 @@
-### Hi there 👋
+# Hi, I'm Ahmed Nour 👋
 
-<!--
-**ahmednour/AhmedNour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Frontend Engineer • UI/UX • Product Engineering
 
-Here are some ideas to get you started:
+I'm a **Frontend Engineer with 15+ years of experience** building modern, scalable, and user-focused web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits at the intersection of **Frontend Engineering, UI/UX, Design Systems, and Product Thinking**. I enjoy turning complex requirements into clear, maintainable, and accessible digital experiences.
 
-Hello There 🙋‍♀️, I'm Ahmed Nour 💖
-I am a Frontend/UI developer with 11 years of in developing user interfaces, user experience design, and coding complex web applications. Skilled in HTML, CSS, JavaScript, jQuery, React, and other programming languages. Proven track record of delivering high-quality projects on time.💪
+I currently focus on building production-grade applications using **React, Next.js, TypeScript, Tailwind CSS, and Flutter**, with a strong interest in frontend architecture, performance, accessibility, and scalable design systems.
 
+---
 
-Connect with me:
-[Ahmed Nour](https://www.linkedin.com/in/ahmed-hussein-nour/)
+## 👨‍💻 What I Do
 
-Languages and Tools:
-<picture>  
-  <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"> 
-</picture>
-<picture>  
-  <img alt="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"> 
-</picture>
-<picture>  
-  <img alt="Git" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="40" height="40"> 
-</picture>
- <img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"> 
-</picture>
- <img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"> 
-</picture>
- <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"> 
-</picture>
-</picture>
- <img alt="Flutter" src="https://camo.githubusercontent.com/c50973c15fc0e039a8d8639e8ed00b33a15e048f2f02bedcec9c7fd4688a9489/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f636d732d73746f726167652d6275636b65742f63383233653533623361316137623064333661392e706e67" width="40" height="40"> 
-</picture>
+* Build scalable frontend architectures with **React & Next.js**
+* Develop cross-platform mobile applications with **Flutter**
+* Create reusable **Design Systems & UI component libraries**
+* Translate complex workflows into clear and intuitive user experiences
+* Build **Arabic-first / RTL interfaces**
+* Improve frontend performance, accessibility, and maintainability
+* Work on enterprise and government digital platforms
+* Bridge the gap between **Product, Design, and Engineering**
 
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42" alt="Figma" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focused on becoming a stronger **Product Engineer** — combining:
+
+**Product Thinking + UX + Design Systems + Senior Frontend Engineering**
+
+with particular attention to:
+
+* Frontend Architecture
+* Design Systems
+* Performance
+* Accessibility
+* State Management
+* Testing
+* Developer Experience
+* Complex enterprise workflows
+* AI-assisted software development
+
+---
+
+## 🌍 Building for Real-World Products
+
+A significant part of my work involves building and improving **enterprise and government digital platforms**, including complex dashboards, service portals, internal systems, and Arabic-first experiences.
+
+I care about more than making interfaces look good — I focus on understanding the **problem, domain model, user journey, edge cases, business rules, and technical trade-offs** behind the product.
+
+---
+
+## 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/ahmed-hussein-nour/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Nour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+---
+
+> **Building interfaces is easy. Building products that remain clear, scalable, and useful as they grow is the real challenge.**
